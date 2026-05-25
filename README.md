@@ -1,1 +1,14 @@
-# Rare Flora South Africa\nRare Flora South Africa is a web application designed to provide expert guides to cultivating and caring for the most extraordinary plants from the Cape Floral Kingdom and beyond.\n\n## Key Features\n* Plant guides with detailed information on care, cultivation, and botanical insights\n* Search and filter functionality to find specific plants by category, care level, and more\n* Reading time estimates and article summaries for easy browsing\n* Mobile-friendly design for access on-the-go\n\n## Tech Stack\n* Next.js for server-side rendering and static site generation\n* React for building reusable UI components\n* TypeScript for type safety and maintainability\n* Lucide React for icons and graphics\n* CSS modules for styling and layout\n\n## Installation\nTo get started with the project, follow these steps:\n1. Clone the repository: `git clone https://github.com/username/urban-carnival.git`\n2. Install dependencies: `npm install` or `yarn install`\n3. Start the development server: `npm run dev` or `yarn dev`\n\n## Usage\n1. Open your web browser and navigate to `http://localhost:3000`\n2. Explore the plant guides, search and filter functionality, and other features\n\n## Environment Variables\nNo environment variables are required to run the application. However, you may need to configure your own API keys or data sources for production use.
+# Rare Flora South Africa
+## Introduction
+Rare Flora South Africa is a web application designed to provide expert guides to cultivating and caring for the most extraordinary plants from the Cape Floral Kingdom and beyond.
+## Key Features
+- Plant guides with detailed information on cultivation, care, and botanical insights
+- Search and filter functionality to find specific plants by category, care level, and more
+- Articles and guides on various topics related to plant care and gardening
+## Tech Stack
+- Next.js for building the web application
+- React for building reusable UI components
+- TypeScript for type safety and maintainability
+- Lucide React for icons and graphics
+## Installation
+To install the project, run the following command:
